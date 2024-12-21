@@ -1,0 +1,29 @@
+# MAIN base
+baseURL = "https://bamsbamx.github.io/zenit-tracks-landing-page"
+languageCode = "en-us"
+title = "ZENIT Tracks | Realistic 3D and offline maps"
+description = "ZENIT Tracks - Realistic 3D and offline maps and a GPS recorder"
+theme = "apsho"
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Show on Github"
+    url = "https://bamsbamx.github.io/zenit-tracks-landing-page"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy Policy"
+    url = "https://bamsbamx.github.io/site/zenit-tracks-privacy-policy.html"
+    weight = 3
+
+[params]
+
+# Header
+logo = "images/logo.png"
+
+# Footer
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://github.com/bamsbamx\" target=\"_blank\">Aner Torre </a> {year}"
