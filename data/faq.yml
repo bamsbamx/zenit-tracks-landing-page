@@ -17,7 +17,7 @@ faqItem:
     dataTarget: Three
     show:
 
-  - question: One Time Purchase:
+  - question: One Time Purchase
     answer: Enjoy core features for FREE and embrace the great outdoors. For even more freedom, unlock offline maps and unlimited track saving with a simple, one-time fee
     dataTarget: Four
     show:
