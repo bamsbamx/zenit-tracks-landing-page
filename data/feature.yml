@@ -1,14 +1,14 @@
 ---
 enable: true
-title: Just a list.
-description: All you need is a de-cluttered list. Every article opens in the browser of your choice or in a clutter-free reader mode. No more half-available content, multiple clicks to read something. Just focus on reading (or scrolling)!
-description2: Quickly import your existing RSS feeds collection
+title: Explore the outdoors like never before
+description: Whether you're a daring backcountry skier, an avid trail runner, an interpid hiker, or a fearless mountain biker, ZENIT Tracks is your essential guide to the great outdoors. Immerse yourself in the most realistic 3D maps designed to make your adventures safer, more accessible, and undeniably enjoyable
+description2: Available for Android and iOS
+checkItem:
+  - text: 3D Realistic and Offline Maps
+  - text: Route Tracking with GPS Recorder
+  - text: Import and Export your tracks
 
-Title2nd: Focus on reading.
-description2nd: Enjoy full control - open articles in your favourite privacy-focused browser and keep your reading experience separated from your main browser. Or use the integrated clutter-free reader mode.
+Title2nd: Discover the Power of Route Tracking
+description2nd: Transform your outdoor adventures with ZENIT Tracks, the ultimate tool for route tracking. Leveraging GPS technology, ZENIT Tracks plots your routes on highly-customizable maps, capturing every detail. Track your distance, speed, route gradient, and more. All your stats are beautifully presented, either as comprehensive data or in stunning charts.
 image1: images/screenshots/android-feed.webp
 image2: images/screenshots/macos-feed.webp
-checkItem:
-  - text: Import your existing collection with one click.
-  - text: Use your favourite browser or the reader mode
-  - text: Built with Compose Multiplatform, SwiftUI, Kotlin Multiplatform
