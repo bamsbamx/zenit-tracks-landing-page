@@ -18,6 +18,10 @@ theme = "apsho"
     name = "Privacy Policy"
     url = "https://bamsbamx.github.io/site/zenit-tracks-privacy-policy.html"
     weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "mailto:contact@zenit-tracks.com"
+    weight = 4
 
 [params]
 
