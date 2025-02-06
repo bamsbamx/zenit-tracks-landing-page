@@ -3,8 +3,9 @@ enable: true
 title: Minimal and clean UI
 
 images:
-  - url: images/screenshots/android1.png
-  - url: images/screenshots/android-feeds.webp
-  - url: images/screenshots/android-menu.webp
-  - url: images/screenshots/android-browser.webp
-  - url: images/screenshots/android-reader-mode.webp
+  - url: images/screenshots/android1.webp
+  - url: images/screenshots/android2.webp
+  - url: images/screenshots/android3.webp
+  - url: images/screenshots/android4.webp
+  - url: images/screenshots/android5.webp
+  - url: images/screenshots/android6.webp
